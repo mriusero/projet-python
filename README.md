@@ -7,7 +7,6 @@ This code requires the following Python libraries to be installed:
 - datetime (from datetime)
 - numpy (imported as np)
 - pandas (imported as pd)
-- ipywidgets (imported as widgets)
 - IPython.display (imported as display and clear_output)
 - plotly.graph_objects (imported as go)
 
